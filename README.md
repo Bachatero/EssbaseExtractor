@@ -7,7 +7,7 @@ Doc under construction
 ## About
 
 EssbaseToolsLauncher.py v2.1 is a parallel auto chunking data extraction tool. It utilizes Essbase.py module (https://github.com/jasonwjones/essbasepy) 
-to extract data from Oracle Hyperion Essbase cube and populates relational table in SQL Server.
+to extract data from Oracle Hyperion Essbase cube and populate relational table in SQL Server.
 
 ## Features
 
