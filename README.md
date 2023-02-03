@@ -1,4 +1,4 @@
-# Essbase data extraction engine
+# EssyPy data extraction engine
 
 Tired of using unstable SmartView for MS Excel and Essbase db extract is not an option? Have your data pulled to SQL database and do your data analysis there.
 
